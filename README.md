@@ -1,5 +1,3 @@
-# Task17.9.1
-A program for converting a sequence of numbers into an ascending sorted list and setting the position number of any integer
 Напишите программу, которой на вход подается последовательность чисел через пробел, а также запрашивается у пользователя любое число.
 
 В качестве задания повышенного уровня сложности можете выполнить проверку соответствия указанному в условии ввода данных.
